@@ -1,0 +1,6 @@
+C:\Users\Rachanon\source\repos\DataStructureLib\TowerOfHanoi\bin\Debug\TowerOfHanoi.exe.config
+C:\Users\Rachanon\source\repos\DataStructureLib\TowerOfHanoi\bin\Debug\TowerOfHanoi.exe
+C:\Users\Rachanon\source\repos\DataStructureLib\TowerOfHanoi\bin\Debug\TowerOfHanoi.pdb
+C:\Users\Rachanon\source\repos\DataStructureLib\TowerOfHanoi\obj\Debug\TowerOfHanoi.csproj.CoreCompileInputs.cache
+C:\Users\Rachanon\source\repos\DataStructureLib\TowerOfHanoi\obj\Debug\TowerOfHanoi.exe
+C:\Users\Rachanon\source\repos\DataStructureLib\TowerOfHanoi\obj\Debug\TowerOfHanoi.pdb

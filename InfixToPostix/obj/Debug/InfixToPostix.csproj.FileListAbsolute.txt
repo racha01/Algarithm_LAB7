@@ -1,0 +1,7 @@
+C:\Users\Rachanon\source\repos\DataStructureLib\InfixToPostix\bin\Debug\InfixToPostix.exe.config
+C:\Users\Rachanon\source\repos\DataStructureLib\InfixToPostix\bin\Debug\InfixToPostix.exe
+C:\Users\Rachanon\source\repos\DataStructureLib\InfixToPostix\bin\Debug\InfixToPostix.pdb
+C:\Users\Rachanon\source\repos\DataStructureLib\InfixToPostix\obj\Debug\InfixToPostix.csprojAssemblyReference.cache
+C:\Users\Rachanon\source\repos\DataStructureLib\InfixToPostix\obj\Debug\InfixToPostix.csproj.CoreCompileInputs.cache
+C:\Users\Rachanon\source\repos\DataStructureLib\InfixToPostix\obj\Debug\InfixToPostix.exe
+C:\Users\Rachanon\source\repos\DataStructureLib\InfixToPostix\obj\Debug\InfixToPostix.pdb

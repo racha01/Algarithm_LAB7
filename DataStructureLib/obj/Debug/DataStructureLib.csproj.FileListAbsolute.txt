@@ -1,0 +1,6 @@
+C:\Users\Rachanon\source\repos\DataStructureLib\DataStructureLib\bin\Debug\DataStructureLib.dll
+C:\Users\Rachanon\source\repos\DataStructureLib\DataStructureLib\bin\Debug\DataStructureLib.pdb
+C:\Users\Rachanon\source\repos\DataStructureLib\DataStructureLib\obj\Debug\DataStructureLib.csprojAssemblyReference.cache
+C:\Users\Rachanon\source\repos\DataStructureLib\DataStructureLib\obj\Debug\DataStructureLib.csproj.CoreCompileInputs.cache
+C:\Users\Rachanon\source\repos\DataStructureLib\DataStructureLib\obj\Debug\DataStructureLib.dll
+C:\Users\Rachanon\source\repos\DataStructureLib\DataStructureLib\obj\Debug\DataStructureLib.pdb

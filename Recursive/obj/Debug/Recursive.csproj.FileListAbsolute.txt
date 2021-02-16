@@ -1,0 +1,6 @@
+C:\Users\Rachanon\source\repos\DataStructureLib\Recursive\bin\Debug\Recursive.exe.config
+C:\Users\Rachanon\source\repos\DataStructureLib\Recursive\bin\Debug\Recursive.exe
+C:\Users\Rachanon\source\repos\DataStructureLib\Recursive\bin\Debug\Recursive.pdb
+C:\Users\Rachanon\source\repos\DataStructureLib\Recursive\obj\Debug\Recursive.csproj.CoreCompileInputs.cache
+C:\Users\Rachanon\source\repos\DataStructureLib\Recursive\obj\Debug\Recursive.exe
+C:\Users\Rachanon\source\repos\DataStructureLib\Recursive\obj\Debug\Recursive.pdb
